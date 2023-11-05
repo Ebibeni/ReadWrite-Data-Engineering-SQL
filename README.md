@@ -32,7 +32,10 @@ What percentage of product page views were immediately followed by a cart page v
 
 <h3>Assignment 2 Questions</h3>
 
-What is the brewery with the most ratings?
-What is the average rating by brewery type?
-What is the highest-rated brewery in a state?
-I'm thirsty. Which brewery is closest to me?
+- What is the brewery with the most ratings?
+
+- What is the average rating by brewery type?
+
+- What is the highest-rated brewery in a state?
+
+- I'm thirsty. Which brewery is closest to me?
